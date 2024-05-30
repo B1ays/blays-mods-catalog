@@ -3,6 +3,17 @@
     "Title": "AniLibria app",
     "Description": "Мод оффициального клиента AniLibria.tv",
     "Icon href": "/apps/AniLibria/icon.png",
+    "Info": {
+      "Readme href": "/apps/AniLibria/README.xml",
+      "Images": [
+        "https://github.com/B1ays/blays-mods-catalog/blob/5540f3638ac799db96be27a68fbce8b366b0339d/apps/AniLibria/images/Screenshot_1.png?raw=true",
+        "https://github.com/B1ays/blays-mods-catalog/blob/5540f3638ac799db96be27a68fbce8b366b0339d/apps/AniLibria/images/Screenshot_2.png?raw=true",
+        "https://github.com/B1ays/blays-mods-catalog/blob/5540f3638ac799db96be27a68fbce8b366b0339d/apps/AniLibria/images/Screenshot_3.png?raw=true",
+        "https://github.com/B1ays/blays-mods-catalog/blob/5540f3638ac799db96be27a68fbce8b366b0339d/apps/AniLibria/images/Screenshot_4.png?raw=true",
+        "https://github.com/B1ays/blays-mods-catalog/blob/5540f3638ac799db96be27a68fbce8b366b0339d/apps/AniLibria/images/Screenshot_5.png?raw=true",
+        "https://github.com/B1ays/blays-mods-catalog/blob/5540f3638ac799db96be27a68fbce8b366b0339d/apps/AniLibria/images/Screenshot_1.png?raw=true"
+      ]
+    },
     "NonRoot": {
       "Package name": "ru.radiationx.anilibria.app",
       "Catalog href": "/apps/AniLibria/versions/Catalog.json"

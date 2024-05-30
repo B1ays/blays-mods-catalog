@@ -1,0 +1,13 @@
+<messages>
+    <ru default="true">
+        ## Общее описание
+        Модификация оффициального [клиента AniLibria](https://github.com/anilibria/anilibria-app "клиента AniLibria") с изменённой темой оформления.
+        
+        ## Что сделано
+        - Amoled тема
+        - Monet цвета для Android 12+
+
+        ## Примечание
+        Подпись: testkey
+    </ru>
+</messages>
