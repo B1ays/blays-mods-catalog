@@ -1,1 +1,3 @@
-# blays-mods-catalog
+### Blays mod's catalog
+
+### Каталог модов за авторством Blays

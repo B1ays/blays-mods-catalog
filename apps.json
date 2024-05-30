@@ -1,0 +1,11 @@
+[
+  {
+    "Title": "AniLibria app",
+    "Description": "Мод оффициального клиента AniLibria.tv",
+    "Icon href": "/apps/AniLibria/icon.png",
+    "NonRoot": {
+      "Package name": "ru.radiationx.anilibria.app",
+      "Catalog href": "/apps/AniLibria/Catalog.json"
+    }
+  }
+]
